@@ -1,0 +1,18 @@
+---
+title: ""
+--- 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,  fig.align="center", out.extra = 'style="display:block; margin:auto;"')
+```
+
+<div class=text-justify>
+
+<br/>
+<br/>
+
+
+<iframe title="Tablero PTracking" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=8d0af66d-f40d-4336-a456-7749dc01745a&autoAuth=true&ctid=ca8f09f5-335e-4fc5-8041-f5b472a02eef" frameborder="0" allowFullScreen="true"></iframe>
+
+
+</div>
