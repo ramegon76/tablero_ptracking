@@ -1,14 +1,14 @@
 name: Seguimiento PTracking
 output_dir: '.'
 navbar:
-  title: Tablero de seguimiento de sistema de evidencias
+  title: ""
   left:
   - text: ""
     href: index.html
 output:
   html_document:
-    toc: yes
-    toc_float: yes
+    toc: no
+    toc_float: no
     theme: readable
     highlight: kate
     lib_dir: site_libs
