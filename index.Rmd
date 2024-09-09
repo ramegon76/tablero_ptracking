@@ -1,5 +1,5 @@
 ---
-title: "Tablero PTracking al 31-12-2023"
+title: "Tablero PTracking Nueva Versión"
 --- 
 
 ```{r setup, include=FALSE}
@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE,  fig.align="center", out.extra = 'style="dis
 
 
 
-<iframe title="Tablero PTracking20231231" width="900" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiMjIzYTg4MDYtZDg2Mi00NmQyLThkMjMtYzk2NDgxMDAzODExIiwidCI6ImNhOGYwOWY1LTMzNWUtNGZjNS04MDQxLWY1YjQ3MmEwMmVlZiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>">
+<iframe title="20240909 Tablero PTracking" width="900" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiY2E5MGU3ZDMtM2E4OC00YTcwLWE5Y2UtMzI3M2FkZDA0Y2RkIiwidCI6ImNhOGYwOWY1LTMzNWUtNGZjNS04MDQxLWY1YjQ3MmEwMmVlZiIsImMiOjR9&pageName=ReportSectionce97751728063d0e0106" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
