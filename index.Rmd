@@ -1,5 +1,5 @@
 ---
-title: "Tablero PTracking Nueva Versión"
+title: ""
 --- 
 
 ```{r setup, include=FALSE}
